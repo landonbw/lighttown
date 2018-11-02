@@ -1,0 +1,7 @@
+name = "LightTown"
+uuid = "f59b76a0-dd62-11e8-0526-8b91f70c3a01"
+authors = ["Landon Wright <Landon.wright91@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+OpenStreetMap2 = "b4cd1eb8-1e24-11e8-3319-93036a3eb9f3"
